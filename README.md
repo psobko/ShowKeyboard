@@ -26,8 +26,6 @@ And then enabling the undocked iPad keyboard:
 
 Scroll down until the bottom row of the keyboard is visible, then hold down the hide keyboard button until the "Undock" option is visible and tap it. It should look like this
 
-![](https://psobko.github.io/images/pg_keyboard_undock.png)
-
 ### Details
 
 Since the simulator is running the standard iPad vertical orientation resolution (768 x 1024), an appropriately sized keyboard will display as well (0.0, 711.0, 768.0, 313.0). This means if your Live View has a height of less than 1024 you will only be able to see and interact with a portion of the keyboard. This is a huge limiting factor since:
